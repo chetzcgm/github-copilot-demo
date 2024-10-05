@@ -1,0 +1,134 @@
+a) How many commits are there in the cyf-demo-repo project?16
+
+b) Who committed on Oct 31, 2020?
+commit 5cd51b2dbeff9bd21df2b2e902ee3f3ad4959978
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 12:02:05 2020 +0000
+
+    blank answers
+
+commit 7bceb9e17384aa19bff8446040903e7888c67749
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:59:13 2020 +0000
+
+    Update other-file.txt
+
+commit 94872bf6152fde6cb01f0361879d02dc37ae38bd
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:54:06 2020 +0000
+
+    answrered questions
+
+commit e508be650bd0ab2ab5bb3347e6b5bf1a561c276b
+Author: Daniel Wagner-Hall <dawagner@gmail.com>
+Date:   Fri Oct 16 22:44:16 2020 +0100
+
+    Initial commit
+:...skipping...
+commit 5cd51b2dbeff9bd21df2b2e902ee3f3ad4959978
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 12:02:05 2020 +0000
+
+    blank answers
+
+commit 7bceb9e17384aa19bff8446040903e7888c67749
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:59:13 2020 +0000
+
+    Update other-file.txt
+
+commit 94872bf6152fde6cb01f0361879d02dc37ae38bd
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:54:06 2020 +0000
+
+    answrered questions
+
+commit e508be650bd0ab2ab5bb3347e6b5bf1a561c276b
+Author: Daniel Wagner-Hall <dawagner@gmail.com>
+Date:   Fri Oct 16 22:44:16 2020 +0100
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+commit 5cd51b2dbeff9bd21df2b2e902ee3f3ad4959978
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 12:02:05 2020 +0000
+
+    blank answers
+
+commit 7bceb9e17384aa19bff8446040903e7888c67749
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:59:13 2020 +0000
+
+    Update other-file.txt
+
+commit 94872bf6152fde6cb01f0361879d02dc37ae38bd
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:54:06 2020 +0000
+
+    answrered questions
+
+commit e508be650bd0ab2ab5bb3347e6b5bf1a561c276b
+Author: Daniel Wagner-Hall <dawagner@gmail.com>
+Date:   Fri Oct 16 22:44:16 2020 +0100
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+!Q
+/usr/bin/bash: line 1: Q: command not found
+!done  (press RETURN)
+
+
+c) What changes did illictonion make in the commit titled “Revert changes accidentally pushed in the past”?
+
+d) How many files were added in the first commit? What were the names of the files?
+
+e) What is the hash for the first commit in the history?
+
+f) What is Claire Bickley’s favourite food?
