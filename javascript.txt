@@ -1,1 +1,2 @@
 How old is the JavaScript programming language?
+Answer: 4 December 1995 (28 years)
