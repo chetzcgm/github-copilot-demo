@@ -1,0 +1,205 @@
+a) How many commits are there in the cyf-demo-repo project?16
+
+b) Who committed on Oct 31, 2020?
+commit 5cd51b2dbeff9bd21df2b2e902ee3f3ad4959978
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 12:02:05 2020 +0000
+
+    blank answers
+
+commit 7bceb9e17384aa19bff8446040903e7888c67749
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:59:13 2020 +0000
+
+    Update other-file.txt
+
+commit 94872bf6152fde6cb01f0361879d02dc37ae38bd
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:54:06 2020 +0000
+
+    answrered questions
+
+commit e508be650bd0ab2ab5bb3347e6b5bf1a561c276b
+Author: Daniel Wagner-Hall <dawagner@gmail.com>
+Date:   Fri Oct 16 22:44:16 2020 +0100
+
+    Initial commit
+:...skipping...
+commit 5cd51b2dbeff9bd21df2b2e902ee3f3ad4959978
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 12:02:05 2020 +0000
+
+    blank answers
+
+commit 7bceb9e17384aa19bff8446040903e7888c67749
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:59:13 2020 +0000
+
+    Update other-file.txt
+
+commit 94872bf6152fde6cb01f0361879d02dc37ae38bd
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:54:06 2020 +0000
+
+    answrered questions
+
+commit e508be650bd0ab2ab5bb3347e6b5bf1a561c276b
+Author: Daniel Wagner-Hall <dawagner@gmail.com>
+Date:   Fri Oct 16 22:44:16 2020 +0100
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
+commit 5cd51b2dbeff9bd21df2b2e902ee3f3ad4959978
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 12:02:05 2020 +0000
+
+    blank answers
+
+commit 7bceb9e17384aa19bff8446040903e7888c67749
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:59:13 2020 +0000
+
+    Update other-file.txt
+
+commit 94872bf6152fde6cb01f0361879d02dc37ae38bd
+Author: Claire Bickley <claire@codeyourfuture.io>
+Date:   Sat Oct 31 11:54:06 2020 +0000
+
+    answrered questions
+
+commit e508be650bd0ab2ab5bb3347e6b5bf1a561c276b
+Author: Daniel Wagner-Hall <dawagner@gmail.com>
+Date:   Fri Oct 16 22:44:16 2020 +0100
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+!Q
+/usr/bin/bash: line 1: Q: command not found
+!done  (press RETURN)
+
+
+c) What changes did illictonion make in the commit titled “Revert changes accidentally pushed in the past”?
+commit 1994d4c85de940daf443ef77415a0bc004756999 (HEAD -> main, upstream/main, origin/main, origin/HEAD, armin/main)
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:28:04 2023 +0100
+
+    Create javascript.txt
+
+commit 91322e912018a25b8a8e2ca159f93a2a35a2b5d4
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:26:22 2023 +0100
+
+    Create lovelace.txt
+
+commit 820ef13f6dcebc17deb076550b08a7b492b72197
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:23:55 2023 +0100
+
+    Create programming.txt
+
+commit e6827e958741e838be18041bb27a7d09c21239eb
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:22:08 2023 +0100
+
+:
+commit 1994d4c85de940daf443ef77415a0bc004756999 (HEAD -> main, upstream/main, origin/main, origin/HEAD, armin/main)
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:28:04 2023 +0100
+
+    Create javascript.txt
+
+commit 91322e912018a25b8a8e2ca159f93a2a35a2b5d4
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:26:22 2023 +0100
+
+    Create lovelace.txt
+
+commit 820ef13f6dcebc17deb076550b08a7b492b72197
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:23:55 2023 +0100
+
+    Create programming.txt
+
+commit e6827e958741e838be18041bb27a7d09c21239eb
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:22:08 2023 +0100
+
+d) How many files were added in the first commit? What were the names of the files?
+commit 1994d4c85de940daf443ef77415a0bc004756999 (HEAD -> main, upstream/main, origin/main, origin/HEAD, armin/main)
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:28:04 2023 +0100
+
+    Create javascript.txt
+
+commit 91322e912018a25b8a8e2ca159f93a2a35a2b5d4
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:26:22 2023 +0100
+
+    Create lovelace.txt
+
+commit 820ef13f6dcebc17deb076550b08a7b492b72197
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:23:55 2023 +0100
+
+    Create programming.txt
+
+commit e6827e958741e838be18041bb27a7d09c21239eb
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:22:08 2023 +0100
+
+    Create capital.txt
+
+e) What is the hash for the first commit in the history?
+commit 1994d4c85de940daf443ef77415a0bc004756999 (HEAD -> main, upstream/main, origin/main, origin/HEAD, armin/main)
+Author: MitchLloyd <mitchelllloyd154@gmail.com>
+Date:   Sat Aug 5 14:28:04 2023 +0100
+
+    Create javascript.txt
+f) What is Claire Bickley’s favourite food?
